@@ -1,4 +1,4 @@
-Learn and unlock Words of Power to reduce your shout cooldowns. 
+Skyrim SE mod: Learn and unlock Words of Power to reduce your shout cooldowns. 
 
 Get an additional 10% reduction for every 5th Word unlocked (up to 100% reduction with 50 Words unlocked). 
 
